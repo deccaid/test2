@@ -478,20 +478,20 @@ button:hover {
   }
   .header__link-icon {
     display: block;
-    height: 15px;
+    height: 18px;
     width: 18px;
   }
   .header__logo {
     display: none;
   }
   .header__menu {
-    background-image: url(./images/menu.svg);
+    background-image: url(./images/icon-1.svg);
     border: none;
     width: 30px;
-    height: 36px;
+    height: 20px;
     background-repeat: no-repeat;
     background-color: transparent;
-    display: block;
+    display: flex;
   }
   .header__container {
     padding: 0 27px;
